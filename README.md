@@ -10,11 +10,11 @@ This Library management system is made with C programming language.
 
 
 # Screenshot
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/0.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/1.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/2.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/3.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/4.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/5.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/6.PNG)
-![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/7.PNG)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/0.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/1.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/2.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/3.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/4.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/5.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/6.PNG?raw=true)
+![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/7.PNG?raw=true)
