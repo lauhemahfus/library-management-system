@@ -18,3 +18,5 @@ This Library management system is made with C programming language.
 ![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/5.PNG?raw=true)
 ![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/6.PNG?raw=true)
 ![](https://github.com/lauhe-mahfus-labib/library-management-system/blob/master/img/7.PNG?raw=true)
+
+This project is made by me, [@Fatema-Tuz-Zannat](https://github.com/Fatema-Tuz-Zannat) & [@yeasinkafi](https://github.com/yeasinkafi).
